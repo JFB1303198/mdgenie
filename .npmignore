@@ -1,0 +1,12 @@
+.git/
+.gitignore
+README.md
+.travis.yml
+.circleci/
+appveyor.yml
+.nyc_output/
+coverage/
+.vscode/
+.idea/
+*.log
+.DS_Store

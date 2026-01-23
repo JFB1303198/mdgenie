@@ -17,8 +17,16 @@
     "markdown",
     "documentation"
   ],
-  "author": "Your Name",
+  "author": "slammers001",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slammers001/mdgenie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/slammers001/mdgenie/issues"
+  },
+  "homepage": "https://github.com/slammers001/mdgenie#readme",
   "dependencies": {
     "inquirer": "^9.2.12",
     "chalk": "^4.1.2",
