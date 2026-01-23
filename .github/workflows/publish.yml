@@ -1,9 +1,12 @@
 name: Publish to NPM
 
 on:
-  push:
-    tags:
-      - 'v*'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to publish (e.g., 1.0.1)'
+        required: true
+        default: '1.0.1'
 
 jobs:
   publish:
@@ -23,6 +26,9 @@ jobs:
 
       - name: Run tests (if they exist)
         run: npm test || true
+
+      - name: Update package.json version
+        run: npm version ${{ github.event.inputs.version }} --no-git-tag-version
 
       - name: Publish to NPM
         run: npm publish --access public
