@@ -1,0 +1,30 @@
+{
+  "name": "mdgenie",
+  "version": "1.0.0",
+  "description": "A CLI tool that generates beautiful README files based on user inputs",
+  "main": "index.js",
+  "bin": {
+    "mdgenie": "./bin/mdgenie.js"
+  },
+  "scripts": {
+    "start": "node bin/mdgenie.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "readme",
+    "generator",
+    "markdown",
+    "documentation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
