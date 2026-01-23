@@ -1,9 +1,9 @@
 # MDGenie
 https://www.npmjs.com/package/mdgenie
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
-![NPM Downloads](https://img.shields.io/npm/dm/mdgenie.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge)
+![NPM Downloads](https://img.shields.io/badge/Downloads-228-brightgreen.svg?style=for-the-badge)
 
 MDGenie is an interactive CLI tool that generates beautiful README.md files for your projects. Simply answer a few prompts about your project, and MDGenie creates professional documentation with customizable sections, badges, and formatting - saving you hours of manual README writing.
 
